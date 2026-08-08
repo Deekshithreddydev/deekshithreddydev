@@ -1,10 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/hero_banner.png" width="100%" alt="Deekshith Reddy" />
-</div>
-
-<br />
-
-<div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=deekshithreddydev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/deekshithreddydev)
 
