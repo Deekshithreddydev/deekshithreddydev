@@ -1,0 +1,62 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sum-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141c2e" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="sum-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#334155" />
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect x="5" y="5" width="940" height="130" rx="20" fill="url(#sum-bg)" stroke="url(#sum-border)" stroke-width="1.5" />
+
+  <!-- User Avatar & Info -->
+  <g transform="translate(30, 25)">
+    <!-- Circular Avatar -->
+    <circle cx="40" cy="40" r="38" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+    <text x="40" y="46" font-family="sans-serif" font-size="18" font-weight="bold" fill="#38bdf8" text-anchor="middle">DR</text>
+
+    <!-- Name & Handle -->
+    <text x="95" y="35" font-family="-apple-system, sans-serif" font-size="24" font-weight="800" fill="#38bdf8">Deekshith Reddy</text>
+    <text x="95" y="60" font-family="-apple-system, sans-serif" font-size="15" font-weight="500" fill="#94a3b8">github.com/deekshithreddydev</text>
+  </g>
+
+  <!-- 4 Colorful Metric Pills -->
+  <g transform="translate(430, 42)">
+    <!-- Pill 1: Followers (Cyan/Blue) -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="115" height="46" rx="23" fill="#38bdf8" fill-opacity="0.2" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="1" />
+      <text x="25" y="28" font-family="sans-serif" font-size="16">👥</text>
+      <text x="70" y="29" font-family="sans-serif" font-size="18" font-weight="800" fill="#38bdf8" text-anchor="middle">120+</text>
+    </g>
+
+    <!-- Pill 2: Repositories (Pink/Magenta) -->
+    <g transform="translate(130, 0)">
+      <rect x="0" y="0" width="115" height="46" rx="23" fill="#f43f5e" fill-opacity="0.2" stroke="#f43f5e" stroke-opacity="0.5" stroke-width="1" />
+      <text x="25" y="28" font-family="sans-serif" font-size="16">📔</text>
+      <text x="70" y="29" font-family="sans-serif" font-size="18" font-weight="800" fill="#f43f5e" text-anchor="middle">45+</text>
+    </g>
+
+    <!-- Pill 3: Stars (Yellow/Gold) -->
+    <g transform="translate(260, 0)">
+      <rect x="0" y="0" width="115" height="46" rx="23" fill="#eab308" fill-opacity="0.2" stroke="#eab308" stroke-opacity="0.5" stroke-width="1" />
+      <text x="25" y="28" font-family="sans-serif" font-size="16">⭐</text>
+      <text x="70" y="29" font-family="sans-serif" font-size="18" font-weight="800" fill="#eab308" text-anchor="middle">210+</text>
+    </g>
+
+    <!-- Pill 4: Contributions (Green) -->
+    <g transform="translate(390, 0)">
+      <rect x="0" y="0" width="115" height="46" rx="23" fill="#22c55e" fill-opacity="0.2" stroke="#22c55e" stroke-opacity="0.5" stroke-width="1" />
+      <text x="22" y="28" font-family="sans-serif" font-size="16">🟩</text>
+      <text x="72" y="29" font-family="sans-serif" font-size="18" font-weight="800" fill="#22c55e" text-anchor="middle">2850+</text>
+    </g>
+  </g>
+</svg>
+Clicking...Pressing key...Stopping...
+
+Stop Agent
