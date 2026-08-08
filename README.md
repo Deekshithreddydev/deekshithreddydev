@@ -1,3 +1,4 @@
+
 <!-- 
 ===================================================================================
                   DEEKSHITH REDDY (@deekshithreddydev) GITHUB PROFILE
@@ -339,8 +340,7 @@
 
   <br /><br />
 
-<p align="center">
-  
+  <p align="center">
     <a href="https://github.com/deekshithreddydev"><b>[GitHub]</b></a> • 
     <a href="https://discord.com"><b>[Discord]</b></a> • 
     <a href="https://deekshithreddy.dev"><b>[Website]</b></a> • 
@@ -351,6 +351,6 @@
     <sub>Designed with ❤️ for Deekshith Reddy (@deekshithreddydev)</sub>
   </p>
 </div>
-Getting DOM...Pressing key...Stopping...
+Clicking...Pressing key...Stopping...
 
 Stop Agent
