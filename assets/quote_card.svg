@@ -1,0 +1,43 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="quote-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1035" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#08060e" />
+    </linearGradient>
+    <linearGradient id="quote-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3b0764" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main Card -->
+  <rect x="5" y="5" width="940" height="190" rx="20" fill="url(#quote-bg)" stroke="url(#quote-border)" stroke-width="1.5" />
+  
+  <!-- Left Accent Line -->
+  <rect x="40" y="45" width="4" height="110" rx="2" fill="#8b5cf6" />
+
+  <!-- Giant Faint Quote Mark -->
+  <text x="55" y="95" font-family="Georgia, serif" font-size="110" fill="#8b5cf6" opacity="0.15">“</text>
+
+  <!-- Quote Content -->
+  <g transform="translate(65, 55)">
+    <text x="0" y="25" font-family="-apple-system, sans-serif" font-size="20" font-weight="400" fill="#f1f5f9" letter-spacing="0.2">
+      "Code is like magic — turn creative thoughts into real, powerful systems."
+    </text>
+    
+    <!-- Author -->
+    <text x="0" y="80" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#a855f7">
+      — Deekshith Reddy
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="102" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#38bdf8" font-style="italic">
+      Developer Mindset • Discord &amp; Web Systems
+    </text>
+  </g>
+</svg>
+Clicking...Pressing key...Stopping...
+
+Stop Agent
