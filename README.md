@@ -14,16 +14,16 @@
 
 ## About Me :
 
-- I am currently working as a **Discord Bot, Full-Stack Website & Minecraft Developer**
-- Main programming languages: **JavaScript / TypeScript, Python & Java**
-- I build **Discord Bots**, **Web Dashboards**, **Minecraft Server Plugins**, and **Automation Tools**
-- Database: I work with **MongoDB, PostgreSQL, MySQL, SQLite & Redis**
+- 🔭 I am currently working as a **Discord Bot, Full-Stack Website & Minecraft Developer**
+- 💻 Main programming languages: **JavaScript / TypeScript, Python & Java**
+- 🛠️ I build **Discord Bots**, **Web Dashboards**, **Minecraft Server Plugins**, and **Automation Tools**
+- 🗄️ Database: I work with **MongoDB, PostgreSQL, MySQL, SQLite & Redis**
 
 ## Connect with me :
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1234567890)](https://discord.com)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1413894353847455854)](https://discord.com)
 
 </div>
 
