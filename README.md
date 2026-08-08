@@ -1,10 +1,26 @@
-[![Hero Banner](assets/hero_banner.svg)](https://github.com/deekshithreddydev)
+<div align="center">
 
-[![Profile Summary](assets/profile_summary.svg)](https://github.com/deekshithreddydev)
+<a href="https://github.com/deekshithreddydev">
+  <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/hero_banner.svg" width="100%" alt="Deekshith Reddy's Hero Banner" />
+</a>
+
+<br />
+
+<a href="https://github.com/deekshithreddydev">
+  <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/profile_summary.svg" width="100%" alt="Profile Summary" />
+</a>
+
+<br />
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=deekshithreddydev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/deekshithreddydev)
 
-[![Developer Quote](assets/quote_card.svg)](https://github.com/deekshithreddydev)
+<br />
+
+<a href="https://github.com/deekshithreddydev">
+  <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/quote_card.svg" width="100%" alt="Developer Quote" />
+</a>
+
+</div>
 
 ## About Me :
 
@@ -15,7 +31,13 @@
 
 ## Connect with me :
 
-[![Discord Status](assets/discord_card.svg)](https://discord.gg)
+<div align="center">
+  <a href="https://discord.com">
+    <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/discord_card.svg" width="460" alt="Discord Status" />
+  </a>
+</div>
+
+<br />
 
 # 💻 Tech Stack:
 
