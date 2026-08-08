@@ -1,14 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/deekshithreddydev">
-  <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/hero_banner.svg" width="100%" alt="Deekshith Reddy's Hero Banner" />
-</a>
+<img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/hero_banner.png" width="100%" alt="Deekshith Reddy - Hero Banner" />
 
 <br />
 
-<a href="https://github.com/deekshithreddydev">
-  <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/profile_summary.svg" width="100%" alt="Profile Summary" />
-</a>
+<img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/profile_summary.png" width="100%" alt="Profile Summary" />
 
 <br />
 
@@ -16,9 +12,7 @@
 
 <br />
 
-<a href="https://github.com/deekshithreddydev">
-  <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/quote_card.svg" width="100%" alt="Developer Quote" />
-</a>
+<img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/quote_card.png" width="100%" alt="Developer Quote" />
 
 </div>
 
@@ -32,9 +26,7 @@
 ## Connect with me :
 
 <div align="center">
-  <a href="https://discord.com">
-    <img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/discord_card.svg" width="460" alt="Discord Status" />
-  </a>
+<img src="https://raw.githubusercontent.com/deekshithreddydev/deekshithreddydev/main/assets/discord_card.png" width="460" alt="Discord Status" />
 </div>
 
 <br />
