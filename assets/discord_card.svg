@@ -1,0 +1,32 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 180" width="100%" height="100%">
+  <defs>
+    <linearGradient id="discord-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18191c" />
+      <stop offset="100%" stop-color="#0f1012" />
+    </linearGradient>
+  </defs>
+
+  <rect x="5" y="5" width="440" height="170" rx="16" fill="url(#discord-bg)" stroke="#2f3136" stroke-width="1.5" />
+  
+  <g transform="translate(25, 25)">
+    <!-- Avatar -->
+    <circle cx="35" cy="35" r="30" fill="#5865F2" />
+    <text x="35" y="41" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">DR</text>
+    <!-- Status Dot (Online Green) -->
+    <circle cx="58" cy="58" r="8" fill="#23a55a" stroke="#18191c" stroke-width="3" />
+
+    <!-- Username & Handles -->
+    <text x="80" y="32" font-family="-apple-system, sans-serif" font-size="18" font-weight="700" fill="#ffffff">deekshithreddydev</text>
+    <text x="80" y="52" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#94a3b8">🤖 Discord &amp; Minecraft Developer</text>
+
+    <!-- Custom Status Message Area -->
+    <rect x="0" y="85" width="390" height="50" rx="10" fill="#202225" />
+    <text x="195" y="115" font-family="-apple-system, sans-serif" font-size="14" font-weight="400" fill="#dcddde" font-style="italic" text-anchor="middle">
+      "Coding custom bots &amp; web dashboards! 🚀"
+    </text>
+  </g>
+</svg>
+Pressing key...Clicking...Stopping...
+
+Stop Agent
